@@ -1,0 +1,23 @@
+{
+    "category": {
+      "bus": {
+        "make": ["Ford", "Chevrolet", "Mercedes-Benz"],
+        "model": ["Transit", "Express", "Sprinter"],
+        "year": ["2022", "2023", "2024"],
+        "color": ["white", "yellow"]
+      },
+      "sedan": {
+        "make": ["Toyota", "Honda", "Hyundai"],
+        "model": ["Camry", "Accord", "Sonata"],
+        "year": ["2022", "2023", "2024"],
+        "color": ["black", "white", "silver", "red", "blue"]
+      },
+      "suv": {
+        "make": ["Jeep", "Ford", "Chevrolet"],
+        "model": ["Wrangler", "Explorer", "Tahoe"],
+        "year": ["2022", "2023", "2024"],
+        "color": ["black", "white", "silver", "red", "blue"]
+      }
+    }
+  }
+  
